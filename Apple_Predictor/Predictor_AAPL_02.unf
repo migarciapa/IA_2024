@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FLS Name="Sin nombre" Description="">
+  <INPUTS>
+    <VARIABLE Name="D3" Minimum="-10.000000" Maximum="10.000000" Intervals="200">
+      <FUZZYFIER Type="8" Points="1" Center="0.000000">
+        <POINT X="-0.050000"/>
+        <POINT X="0.050000"/>
+      </FUZZYFIER>
+      <LABEL Name="B10" Type="0">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+      </LABEL>
+      <LABEL Name="B5" Type="1">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+      </LABEL>
+      <LABEL Name="B2" Type="1">
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+      </LABEL>
+      <LABEL Name="B1" Type="1">
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+      </LABEL>
+      <LABEL Name="B05" Type="1">
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+      </LABEL>
+      <LABEL Name="B02" Type="1">
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+      </LABEL>
+      <LABEL Name="B01" Type="1">
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+      </LABEL>
+      <LABEL Name="E" Type="1">
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+      </LABEL>
+      <LABEL Name="A01" Type="1">
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+      </LABEL>
+      <LABEL Name="A02" Type="1">
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+      </LABEL>
+      <LABEL Name="A05" Type="1">
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+      </LABEL>
+      <LABEL Name="A1" Type="1">
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+      </LABEL>
+      <LABEL Name="A2" Type="1">
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+      </LABEL>
+      <LABEL Name="A5" Type="1">
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+      <LABEL Name="A10" Type="3">
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+    </VARIABLE>
+    <VARIABLE Name="D2" Minimum="-10.000000" Maximum="10.000000" Intervals="200">
+      <FUZZYFIER Type="8" Points="1" Center="0.000000">
+        <POINT X="-0.050000"/>
+        <POINT X="0.050000"/>
+      </FUZZYFIER>
+      <LABEL Name="B10" Type="0">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+      </LABEL>
+      <LABEL Name="B5" Type="1">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+      </LABEL>
+      <LABEL Name="B2" Type="1">
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+      </LABEL>
+      <LABEL Name="B1" Type="1">
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+      </LABEL>
+      <LABEL Name="B05" Type="1">
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+      </LABEL>
+      <LABEL Name="B02" Type="1">
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+      </LABEL>
+      <LABEL Name="B01" Type="1">
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+      </LABEL>
+      <LABEL Name="E" Type="1">
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+      </LABEL>
+      <LABEL Name="A01" Type="1">
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+      </LABEL>
+      <LABEL Name="A02" Type="1">
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+      </LABEL>
+      <LABEL Name="A05" Type="1">
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+      </LABEL>
+      <LABEL Name="A1" Type="1">
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+      </LABEL>
+      <LABEL Name="A2" Type="1">
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+      </LABEL>
+      <LABEL Name="A5" Type="1">
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+      <LABEL Name="A10" Type="3">
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+    </VARIABLE>
+    <VARIABLE Name="D1" Minimum="-10.000000" Maximum="10.000000" Intervals="200">
+      <FUZZYFIER Type="8" Points="1" Center="0.000000">
+        <POINT X="-0.050000"/>
+        <POINT X="0.050000"/>
+      </FUZZYFIER>
+      <LABEL Name="B10" Type="0">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+      </LABEL>
+      <LABEL Name="B5" Type="1">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+      </LABEL>
+      <LABEL Name="B2" Type="1">
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+      </LABEL>
+      <LABEL Name="B1" Type="1">
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+      </LABEL>
+      <LABEL Name="B05" Type="1">
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+      </LABEL>
+      <LABEL Name="B02" Type="1">
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+      </LABEL>
+      <LABEL Name="B01" Type="1">
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+      </LABEL>
+      <LABEL Name="E" Type="1">
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+      </LABEL>
+      <LABEL Name="A01" Type="1">
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+      </LABEL>
+      <LABEL Name="A02" Type="1">
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+      </LABEL>
+      <LABEL Name="A05" Type="1">
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+      </LABEL>
+      <LABEL Name="A1" Type="1">
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+      </LABEL>
+      <LABEL Name="A2" Type="1">
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+      </LABEL>
+      <LABEL Name="A5" Type="1">
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+      <LABEL Name="A10" Type="3">
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+    </VARIABLE>
+  </INPUTS>
+  <OUTPUTS>
+    <VARIABLE Name="D0" Minimum="-10.000000" Maximum="10.000000" Intervals="200">
+      <LABEL Name="B10" Type="0">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+      </LABEL>
+      <LABEL Name="B5" Type="1">
+        <POINT X="-10.000000"/>
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+      </LABEL>
+      <LABEL Name="B2" Type="1">
+        <POINT X="-5.000000"/>
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+      </LABEL>
+      <LABEL Name="B1" Type="1">
+        <POINT X="-2.000000"/>
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+      </LABEL>
+      <LABEL Name="B05" Type="1">
+        <POINT X="-1.000000"/>
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+      </LABEL>
+      <LABEL Name="B02" Type="1">
+        <POINT X="-0.500000"/>
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+      </LABEL>
+      <LABEL Name="B01" Type="1">
+        <POINT X="-0.200000"/>
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+      </LABEL>
+      <LABEL Name="E" Type="1">
+        <POINT X="-0.100000"/>
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+      </LABEL>
+      <LABEL Name="A01" Type="1">
+        <POINT X="0.000000"/>
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+      </LABEL>
+      <LABEL Name="A02" Type="1">
+        <POINT X="0.100000"/>
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+      </LABEL>
+      <LABEL Name="A05" Type="1">
+        <POINT X="0.200000"/>
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+      </LABEL>
+      <LABEL Name="A1" Type="1">
+        <POINT X="0.500000"/>
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+      </LABEL>
+      <LABEL Name="A2" Type="1">
+        <POINT X="1.000000"/>
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+      </LABEL>
+      <LABEL Name="A5" Type="1">
+        <POINT X="2.000000"/>
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+      <LABEL Name="A10" Type="3">
+        <POINT X="5.000000"/>
+        <POINT X="10.000000"/>
+      </LABEL>
+    </VARIABLE>
+  </OUTPUTS>
+  <ENGINE>
+    <IMPLICATION Type="1"/>
+    <COMPOSITION Type="1" Parameter="0.000000"/>
+    <AND Type="1" Parameter="0.000000"/>
+    <BASE Inputs="3" Outputs="1"/>
+  </ENGINE>
+  <DEFUZZYFIERS>
+    <DEFUZZYFIER Variable="0" Type="3"/>
+    <CONJUNCTION Type="10" Parameter="0.000000"/>
+  </DEFUZZYFIERS>
+</FLS>
